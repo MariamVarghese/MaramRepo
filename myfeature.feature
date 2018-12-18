@@ -1,5 +1,5 @@
 @smoke
-Feature: SmokeTest_CDLSI-Hyundai45
+Feature:My Feature
 
 Background:
 
