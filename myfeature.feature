@@ -3,6 +3,6 @@ Feature: SmokeTest_CDLSI-Hyundai45
 
 Background:
 
-Scenario: Test-Test To Verify Login GUI Testcase
+Scenario: Test-Test To Verify Login GUI Testcase1
            And Iam Logged into my PL
 
